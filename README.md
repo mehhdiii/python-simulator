@@ -22,3 +22,10 @@ This simulation was designed to nagivate using the following philosophy. For eac
   - Goto step 2
   
   3. move the robot towards the center and drop the object i there.
+
+Results
+----------------------
+![](https://github.com/mehhdiii/python-simulator/blob/assignment23/results/1.png)
+![](https://github.com/mehhdiii/python-simulator/blob/assignment23/results/2.png)
+![](https://github.com/mehhdiii/python-simulator/blob/assignment23/results/3.png)
+![](https://github.com/mehhdiii/python-simulator/blob/assignment23/results/4.png)
